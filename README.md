@@ -1,5 +1,11 @@
 
-<p> <a href="https://www.linkedin.com/in/mehershashwatnigam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p> 
+  <a href="https://www.linkedin.com/in/mehershashwatnigam/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://devpost.com/mehershashwat" target="_blank">
+    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-Profile-yellowgreen?style=for-the-badge&logo=appveyor" />
+  </a> 
 </p>
 
 ### About me :rocket:

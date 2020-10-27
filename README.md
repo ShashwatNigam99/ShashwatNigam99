@@ -4,6 +4,7 @@
 
 ### About me :rocket:
 :mortar_board:  Computer Vision Research student
+
 :man_technologist: Currently a senior at IIIT Hyderabad, working as an undergraduate research student at the computer vision lab -CVIT, IIIT Hyderabad.
 Interested in machine learning, deep learning with a special focus on computer vision. Experience with finance and quantitative analysis. Currently exploring blockchain!
 

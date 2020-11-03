@@ -23,7 +23,12 @@
    <a href="https://www.instagram.com/shashwatnigam67/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/%20-Instagram-ca37ac?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
+  <a href="https://open.spotify.com/user/31fenxoiiuhgjwxq3cfy2x76rlkm?si=P7IVNTcxRluFNlevXSXUqw" target="_blank">
+    <img alt="Spotify" src="https://img.shields.io/badge/%20-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=black" />
+  </a>
 </p>
+
 
 ### About me :rocket:
 :mortar_board:  Computer Vision Research student

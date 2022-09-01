@@ -31,13 +31,7 @@
 
 
 ### About me :rocket:
-:mortar_board:  Computer Vision Research student
-
-:man_technologist: Currently a senior at IIIT Hyderabad, working as an undergraduate research student at the computer vision lab -CVIT, IIIT Hyderabad.
-Interested in machine learning, deep learning with a special focus on computer vision. Experience with finance and quantitative analysis. Currently exploring blockchain!
-
-Do hit me up if there is something we can discuss! 
-
+I like the idea of bringing mathematics and computer science together to help us better understand, make predictions, and manage the world around us. I wish to solve complex problems in challenging roles, which promote me to think out of the box. I like making complex tasks easier and manageable by automation and speeding up computationally heavy processes by making them more efficient. Moreover, I love seeing technology making people’s lives easier and smarter! 
 
 ![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=ShashwatNigam99&show_icons=true&theme=vue-dark)
 
